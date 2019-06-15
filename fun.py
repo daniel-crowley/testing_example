@@ -1,1 +1,1 @@
-print("Egor thinks you all rock!")
+print("Egor thinks you're awesome!")
